@@ -1,64 +1,133 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Muhammad%20Rafly%20Isman&fontSize=42&fontColor=ffffff&desc=Network%20Engineer%20%7C%20Network%20Automation%20%26%20AI%20Infrastructure&descSize=18&descAlignY=68&fontAlignY=40" width="100%" alt="Header" />
-</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+# Muhammad Rafly Isman
+### Network Engineer | IT Infrastructure | Networking & Cloud Enthusiast
+
+<p>
+  <a href="https://github.com/raflyisman19">
+    <img src="https://img.shields.io/badge/GitHub-raflyisman19-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/muhammad-rafly-isman-630b97362/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://LINK_PORTFOLIO_KAMU.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://raflynetwork.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
----
+**Building, Securing, and Maintaining Digital Connectivity.**
 
-### `whoami`
-
-Halo! Saya **Muhammad Rafly Isman**, seorang **Network Engineer** yang berfokus pada perancangan infrastruktur jaringan berkinerja tinggi, otomasi jaringan (*NetDevOps*), dan integrasi kecerdasan buatan untuk operasional jaringan (**AI Network Engineering**).
-
-- **Fokus Utama:** Routing & Switching, Network Security, High-Performance Transport Protocols (QUIC/HTTP3), dan Software-Defined Networking (SDN).
-- **Eksplorasi Saat Ini:** Arsitektur jaringan untuk beban kerja AI/ML (RoCEv2, Infiniband), telemetri jaringan *real-time*, dan otomasi berbasis Python.
-- **Kolaborasi:** Terbuka untuk proyek riset infrastruktur, otomasi *cloud-native*, dan pengembangan *tooling* jaringan.
+</div>
 
 ---
 
-### Tech Stack & Arsenal
+## 👋 About Me
 
-#### Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+Hello! I'm **Muhammad Rafly Isman**, an aspiring **Network Engineer and IT Infrastructure professional** based in South Tangerang, Indonesia.
+
+I am interested in designing, configuring, monitoring, securing, and troubleshooting reliable network infrastructure. I enjoy learning through hands-on labs, documenting technical experiments, and building practical projects.
+
+My current learning focus includes:
+
+- Network fundamentals, TCP/IP, subnetting, routing, and switching
+- MikroTik RouterOS, VLAN, VPN, and network troubleshooting
+- Cisco networking and network simulation
+- Linux server administration with Ubuntu
+- Cloud infrastructure, system monitoring, and IT security
+
+My goal is to keep improving from foundational networking skills toward professional-level infrastructure and cloud engineering.
+
+## 🧰 Technical Skills
+
+### Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square)
+![Routing](https://img.shields.io/badge/Routing-2563EB?style=flat-square)
+![Switching](https://img.shields.io/badge/Switching-0F766E?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN-7C3AED?style=flat-square)
+![Subnetting](https://img.shields.io/badge/Subnetting-475569?style=flat-square)
+![VPN](https://img.shields.io/badge/VPN-15803D?style=flat-square)
+
+### Tools & Platforms
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![BGP/OSPF](https://img.shields.io/badge/Routing-BGP%20%7C%20OSPF%20%7C%20MPLS-0f172a?style=flat-square)
-![QUIC/HTTP3](https://img.shields.io/badge/Protocols-TCP%2FIP%20%7C%20UDP%20%7C%20QUIC-2563eb?style=flat-square)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
 
-#### Network Automation, Cloud & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+### Currently Developing
+- Linux and Ubuntu Server administration
+- Network monitoring and performance optimization
+- Firewall, VPN, and infrastructure security
+- Cloud computing fundamentals
 
----
+## 🚀 Featured Projects
 
-### Featured Projects & Labs
+> Replace the sample links below with your actual repository URLs as you publish each project.
 
-| Proyek / Repository | Deskripsi | Tech Stack |
-| :--- | :--- | :--- |
-| **[NetAuto-Provisioner](#)** | Skrip otomasi konfigurasi multi-vendor dan *backup* otomatis berbasis Python & Ansible. | `Python` `Netmiko` `Ansible` |
-| **[AI-Traffic-Anomaly-Detector](#)** | Analisis *traffic* jaringan dan deteksi anomali paket menggunakan *machine learning* dari data *flow* telemetri. | `Python` `Scikit-Learn` `Pcap` |
-| **[Modern-Transport-Benchmark](#)** | Simulasi dan pengujian performa protokol transport modern (TCP vs QUIC/HTTP3) pada kondisi jaringan *lossy*. | `Linux` `Wireshark` `QUIC` |
+| Project | Description | Technologies |
+|---|---|---|
+| Network Lab & Topology | Network topology experiments, IP addressing, VLAN, routing, and switching labs | Cisco Packet Tracer |
+| MikroTik Configuration Lab | Router configuration, DHCP, NAT, firewall, and VPN practice | MikroTik RouterOS |
+| Ubuntu Server Lab | Linux server installation, SSH, users, services, and basic hardening | Ubuntu Server, VirtualBox |
+| Network Troubleshooting Notes | Practical troubleshooting notes, packet analysis, and documentation | Wireshark, TCP/IP |
 
----
+**Explore my repositories:** [github.com/raflyisman19](https://github.com/raflyisman19)
 
-### GitHub Telemetry
+## 📚 Learning Journey
+
+- [x] Build foundational knowledge of computer hardware and IT fundamentals
+- [ ] Strengthen TCP/IP, OSI model, subnetting, and Ethernet concepts
+- [ ] Practice VLAN, routing, switching, and network troubleshooting
+- [ ] Develop MikroTik and Cisco configuration skills
+- [ ] Build and document Ubuntu Server labs
+- [ ] Learn network security, firewall, and VPN implementation
+- [ ] Explore cloud infrastructure and monitoring
+- [ ] Publish practical projects with diagrams and documentation
+
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raflyisman19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflyisman19&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+
+<img src="https://streak-stats.demolab.com?user=raflyisman19&theme=tokyonight&hide_border=true" alt="GitHub streak">
+
+</div>
+
+## 🤝 Let's Connect
+
+Have a project, collaboration idea, technical question, or opportunity? Feel free to contact me.
+
+<div align="center">
+
+### Send me a message
+
+<a href="mailto:YOUR_EMAIL@gmail.com?subject=Hello%20Rafly%20-%20GitHub%20Contact">
+  <img src="https://img.shields.io/badge/Email%20me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
+</a>
+<a href="https://wa.me/YOUR_WHATSAPP_NUMBER?text=Halo%20Rafly%2C%20saya%20menghubungi%20Anda%20melalui%20GitHub.">
+  <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp">
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-rafly-isman-630b97362/">LinkedIn</a> ·
+  <a href="https://github.com/raflyisman19">GitHub</a> ·
+  <a href="https://raflynetwork.com">Portfolio</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Keep learning. Keep building. Keep improving."*
+
+Thanks for visiting my profile! ⭐
+
 </div>
