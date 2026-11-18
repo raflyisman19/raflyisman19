@@ -107,10 +107,10 @@ Have a project, collaboration idea, technical question, or opportunity? Feel fre
 
 ### Send me a message
 
-<a href="mailto:YOUR_EMAIL@gmail.com?subject=Hello%20Rafly%20-%20GitHub%20Contact">
+<a href="mailto:raflyisman19@gmail.com?subject=Hello%20Rafly%20-%20GitHub%20Contact&body=Halo%20Rafly%2C%0A%0ASaya%20menghubungi%20Anda%20melalui%20profil%20GitHub.%20Saya%20ingin%20berdiskusi%20mengenai%20peluang%20kerja%20sama%20atau%20kebutuhan%20terkait%20Network%20Engineering%20/%20IT%20Infrastructure.%0A%0ATerima%20kasih.">
   <img src="https://img.shields.io/badge/Email%20me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
 </a>
-<a href="https://wa.me/YOUR_WHATSAPP_NUMBER?text=Halo%20Rafly%2C%20saya%20menghubungi%20Anda%20melalui%20GitHub.">
+<a href="https://wa.me/6287849453748?text=Halo%20Rafly%2C%20saya%20menghubungi%20Anda%20melalui%20profil%20GitHub.%20Saya%20ingin%20berdiskusi%20mengenai%20peluang%20kerja%20sama%20atau%20kebutuhan%20terkait%20Network%20Engineering%20/%20IT%20Infrastructure.">
   <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp">
 </a>
 
